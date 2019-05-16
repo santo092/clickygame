@@ -8,7 +8,8 @@ A game with a main goal of not clicking a previously clicked image.
 - Earn a point by clicking a different image once the images shuffle. 
 - Beat the highscore. 
 
-[Check out the App](https://mongosrc.herokuapp.com/)
+Check out the app:
+https://clicky-game00.herokuapp.com/
 
 ## Technologies Used
 - react
